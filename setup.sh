@@ -4,7 +4,7 @@ echo " Please Choose: "
 echo " 1. Ubuntu"
 echo " 2. Termux"
 echo " 3. iSH"
-echo " 4. Other Debain Distrubution"
+echo " 4. Other Debian Distrubution"
 
 read hDug
 
